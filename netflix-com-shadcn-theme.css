@@ -1,0 +1,17 @@
+/* shadcn/ui Theme — extracted from https://www.netflix.com/ */
+/* Paste into your globals.css */
+
+@layer base {
+  :root {
+    --background: 0 0% 0%;
+    --foreground: 0 0% 100%;
+    --primary: 357 92% 47%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 222 54% 48%;
+    --secondary-foreground: 0 0% 100%;
+    --muted: 0 0% 85%;
+    --muted-foreground: 0 0% 100%;
+    --border: 0 0% 25%;
+    --radius: 8px;
+  }
+}

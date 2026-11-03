@@ -1,0 +1,44 @@
+@layer base {
+  :root {
+    /* Brand */
+    --brand-1: #e50914;
+    --brand-2: #3860be;
+
+    /* Neutrals */
+    --gray-0: #ffffff;
+    --gray-1: #000000;
+    --gray-2: #333333;
+    --gray-3: #232323;
+    --gray-4: #414141;
+    --gray-5: #555555;
+    --gray-6: #2d2d2d;
+    --gray-7: #f4f4f4;
+    --gray-8: #161616;
+    --gray-9: #808080;
+
+    /* Typography */
+    --font-sans: 'Netflix Sans', system-ui, sans-serif;
+
+    /* Spacing */
+    --size-1: 1px;
+    --size-2: 64px;
+    --size-3: 96px;
+    --size-4: 100px;
+    --size-5: 128px;
+    --size-6: 148px;
+    --size-7: 314px;
+
+    /* Radius */
+    --radius-1: 2px;
+    --radius-2: 8px;
+    --radius-3: 16px;
+    --radius-4: 20px;
+    --radius-5: 50px;
+
+    /* Shadows */
+    --shadow-1: rgb(128, 128, 128) 0px 0px 5px 0px;
+    --shadow-2: rgb(199, 197, 199) -3px -3px 5px -2px;
+    --shadow-3: rgb(199, 197, 199) 0px 0px 12px 2px;
+    --shadow-4: rgba(0, 0, 0, 0) 0px 2px 4px 0px, rgba(50, 50, 93, 0.1) 0px 7px 14px 0px;
+  }
+}

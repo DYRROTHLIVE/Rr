@@ -1,0 +1,2443 @@
+{
+  "colors": {
+    "all": [
+      {
+        "hex": "#ffffff",
+        "rgb": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 100
+        },
+        "count": 1083,
+        "areaShare": 0,
+        "contexts": [
+          "text",
+          "border",
+          "background"
+        ],
+        "tokenConfidence": {
+          "value": 0.75,
+          "level": "high"
+        }
+      },
+      {
+        "hex": "#000000",
+        "rgb": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 0
+        },
+        "count": 603,
+        "areaShare": 0.797,
+        "contexts": [
+          "text",
+          "background",
+          "border"
+        ],
+        "tokenConfidence": {
+          "value": 0.97,
+          "level": "high"
+        }
+      },
+      {
+        "hex": "#333333",
+        "rgb": {
+          "r": 51,
+          "g": 51,
+          "b": 51,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 20
+        },
+        "count": 120,
+        "areaShare": 0.009,
+        "contexts": [
+          "background",
+          "text",
+          "border"
+        ],
+        "tokenConfidence": {
+          "value": 0.77,
+          "level": "high"
+        }
+      },
+      {
+        "hex": "#232323",
+        "rgb": {
+          "r": 35,
+          "g": 35,
+          "b": 35,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 14
+        },
+        "count": 27,
+        "areaShare": 0.128,
+        "contexts": [
+          "background"
+        ],
+        "tokenConfidence": {
+          "value": 0.52,
+          "level": "medium"
+        }
+      },
+      {
+        "hex": "#414141",
+        "rgb": {
+          "r": 65,
+          "g": 65,
+          "b": 65,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 25
+        },
+        "count": 21,
+        "areaShare": 0.005,
+        "contexts": [
+          "text",
+          "border",
+          "background"
+        ],
+        "tokenConfidence": {
+          "value": 0.38,
+          "level": "medium"
+        }
+      },
+      {
+        "hex": "#555555",
+        "rgb": {
+          "r": 85,
+          "g": 85,
+          "b": 85,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 33
+        },
+        "count": 21,
+        "areaShare": 0,
+        "contexts": [
+          "text",
+          "border"
+        ],
+        "tokenConfidence": {
+          "value": 0.4,
+          "level": "medium"
+        }
+      },
+      {
+        "hex": "#3860be",
+        "rgb": {
+          "r": 56,
+          "g": 96,
+          "b": 190,
+          "a": 1
+        },
+        "hsl": {
+          "h": 222,
+          "s": 54,
+          "l": 48
+        },
+        "count": 15,
+        "areaShare": 0,
+        "contexts": [
+          "text",
+          "border",
+          "background"
+        ],
+        "tokenConfidence": {
+          "value": 0.53,
+          "level": "medium"
+        }
+      },
+      {
+        "hex": "#2d2d2d",
+        "rgb": {
+          "r": 45,
+          "g": 45,
+          "b": 45,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 18
+        },
+        "count": 12,
+        "areaShare": 0.052,
+        "contexts": [
+          "background"
+        ],
+        "tokenConfidence": {
+          "value": 0.33,
+          "level": "medium"
+        }
+      },
+      {
+        "hex": "#e50914",
+        "rgb": {
+          "r": 229,
+          "g": 9,
+          "b": 20,
+          "a": 1
+        },
+        "hsl": {
+          "h": 357,
+          "s": 92,
+          "l": 47
+        },
+        "count": 10,
+        "areaShare": 0.003,
+        "contexts": [
+          "background",
+          "border"
+        ],
+        "tokenConfidence": {
+          "value": 0.51,
+          "level": "medium"
+        }
+      },
+      {
+        "hex": "#f4f4f4",
+        "rgb": {
+          "r": 244,
+          "g": 244,
+          "b": 244,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 96
+        },
+        "count": 5,
+        "areaShare": 0,
+        "contexts": [
+          "background"
+        ],
+        "tokenConfidence": {
+          "value": 0.38,
+          "level": "medium"
+        }
+      },
+      {
+        "hex": "#161616",
+        "rgb": {
+          "r": 22,
+          "g": 22,
+          "b": 22,
+          "a": 0.7
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 9
+        },
+        "count": 4,
+        "areaShare": 0.006,
+        "contexts": [
+          "background"
+        ],
+        "tokenConfidence": {
+          "value": 0.13,
+          "level": "low"
+        }
+      },
+      {
+        "hex": "#808080",
+        "rgb": {
+          "r": 128,
+          "g": 128,
+          "b": 128,
+          "a": 0.7
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 50
+        },
+        "count": 4,
+        "areaShare": 0,
+        "contexts": [
+          "border"
+        ],
+        "tokenConfidence": {
+          "value": 0.11,
+          "level": "low"
+        }
+      },
+      {
+        "hex": "#c1c1c1",
+        "rgb": {
+          "r": 193,
+          "g": 193,
+          "b": 193,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 76
+        },
+        "count": 3,
+        "areaShare": 0,
+        "contexts": [
+          "border"
+        ],
+        "tokenConfidence": {
+          "value": 0.09,
+          "level": "low"
+        }
+      },
+      {
+        "hex": "#468254",
+        "rgb": {
+          "r": 70,
+          "g": 130,
+          "b": 84,
+          "a": 1
+        },
+        "hsl": {
+          "h": 134,
+          "s": 30,
+          "l": 39
+        },
+        "count": 2,
+        "areaShare": 0,
+        "contexts": [
+          "background"
+        ],
+        "tokenConfidence": {
+          "value": 0.06,
+          "level": "low"
+        }
+      },
+      {
+        "hex": "#32ae88",
+        "rgb": {
+          "r": 50,
+          "g": 174,
+          "b": 136,
+          "a": 1
+        },
+        "hsl": {
+          "h": 162,
+          "s": 55,
+          "l": 44
+        },
+        "count": 1,
+        "areaShare": 0,
+        "contexts": [
+          "border"
+        ],
+        "tokenConfidence": {
+          "value": 0,
+          "level": "low"
+        }
+      },
+      {
+        "hex": "#707070",
+        "rgb": {
+          "r": 112,
+          "g": 112,
+          "b": 112,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 44
+        },
+        "count": 1,
+        "areaShare": 0,
+        "contexts": [
+          "border"
+        ],
+        "tokenConfidence": {
+          "value": 0,
+          "level": "low"
+        }
+      },
+      {
+        "hex": "#d8d8d8",
+        "rgb": {
+          "r": 216,
+          "g": 216,
+          "b": 216,
+          "a": 1
+        },
+        "hsl": {
+          "h": 0,
+          "s": 0,
+          "l": 85
+        },
+        "count": 1,
+        "areaShare": 0,
+        "contexts": [
+          "border"
+        ],
+        "tokenConfidence": {
+          "value": 0,
+          "level": "low"
+        }
+      }
+    ]
+  },
+  "regions": [
+    {
+      "role": "nav",
+      "tag": "header",
+      "bounds": {
+        "x": 132,
+        "y": 0,
+        "w": 1000,
+        "h": 88
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 0,
+      "className": "hcw-ltr-iqcdef-cache-4fdrtc"
+    },
+    {
+      "role": "footer",
+      "tag": "footer",
+      "bounds": {
+        "x": 148,
+        "y": 2398,
+        "w": 984,
+        "h": 423.5
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 15,
+      "className": "hcw-ltr-iqcdef-cache-4fdrtc"
+    },
+    {
+      "role": "nav",
+      "tag": "div",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "heading": "Privacy Preference Center",
+      "buttonCount": 0,
+      "cardCount": 5,
+      "className": "ot-sdk-four ot-sdk-columns ot-tab-list"
+    },
+    {
+      "role": "content",
+      "tag": "section",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "heading": "Cookie List",
+      "buttonCount": 5,
+      "cardCount": 1,
+      "className": "ot-hide ot-pc-scrollbar ot-enbl-chr"
+    },
+    {
+      "role": "content",
+      "tag": "section",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "heading": null,
+      "buttonCount": 0,
+      "cardCount": 0,
+      "className": "ot-pc-scrollbar"
+    },
+    {
+      "role": "content",
+      "tag": "section",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "heading": null,
+      "buttonCount": 3,
+      "cardCount": 1,
+      "className": null
+    }
+  ],
+  "componentClusters": [
+    {
+      "kind": "input",
+      "structuralHash": "input",
+      "instanceCount": 2,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(255, 255, 255)",
+            "padding": "24px 16px 8px 16px",
+            "borderRadius": "0px",
+            "border": "0px solid rgba(0, 0, 0, 0)",
+            "fontSize": "16px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 2
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "button>div",
+      "instanceCount": 2,
+      "variants": [
+        {
+          "css": {
+            "background": "rgb(229, 9, 20)",
+            "color": "rgb(255, 255, 255)",
+            "padding": "12px 24px 12px 24px",
+            "borderRadius": "4px",
+            "border": "0px none rgb(255, 255, 255)",
+            "fontSize": "24px",
+            "fontWeight": "500"
+          },
+          "instanceCount": 2
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "button>div>span",
+      "instanceCount": 10,
+      "variants": [
+        {
+          "css": {
+            "background": "rgb(35, 35, 35)",
+            "color": "rgb(255, 255, 255)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "8px",
+            "border": "0px none rgb(255, 255, 255)",
+            "fontSize": "16px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 10
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "button>svg",
+      "instanceCount": 1,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(255, 255, 255, 0.1)",
+            "color": "rgba(255, 255, 255, 0.7)",
+            "padding": "0px 0px 0px 0px",
+            "borderRadius": "8px",
+            "border": "0px none rgba(255, 255, 255, 0.7)",
+            "fontSize": "16px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 1
+        }
+      ]
+    },
+    {
+      "kind": "button",
+      "structuralHash": "button>span",
+      "instanceCount": 6,
+      "variants": [
+        {
+          "css": {
+            "background": "rgba(0, 0, 0, 0)",
+            "color": "rgb(255, 255, 255)",
+            "padding": "24px 24px 24px 24px",
+            "borderRadius": "0px",
+            "border": "0px none rgb(255, 255, 255)",
+            "fontSize": "24px",
+            "fontWeight": "400"
+          },
+          "instanceCount": 6
+        }
+      ]
+    }
+  ],
+  "accessibility": {
+    "remediation": []
+  },
+  "cssHealth": {
+    "sheets": [
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 289,
+        "usedBytes": 0,
+        "unusedBytes": 289,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2088,
+        "usedBytes": 0,
+        "unusedBytes": 2088,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 3003,
+        "usedBytes": 0,
+        "unusedBytes": 3003,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 5643,
+        "usedBytes": 0,
+        "unusedBytes": 5643,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1658,
+        "usedBytes": 0,
+        "unusedBytes": 1658,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1288,
+        "usedBytes": 0,
+        "unusedBytes": 1288,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 725,
+        "usedBytes": 0,
+        "unusedBytes": 725,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 42,
+        "usedBytes": 0,
+        "unusedBytes": 42,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 551,
+        "usedBytes": 0,
+        "unusedBytes": 551,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 6963,
+        "usedBytes": 0,
+        "unusedBytes": 6963,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 16833,
+        "usedBytes": 0,
+        "unusedBytes": 16833,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1080,
+        "usedBytes": 0,
+        "unusedBytes": 1080,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 3950,
+        "usedBytes": 0,
+        "unusedBytes": 3950,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1500,
+        "usedBytes": 0,
+        "unusedBytes": 1500,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1292,
+        "usedBytes": 0,
+        "unusedBytes": 1292,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 280,
+        "usedBytes": 0,
+        "unusedBytes": 280,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 241,
+        "usedBytes": 0,
+        "unusedBytes": 241,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 177,
+        "usedBytes": 0,
+        "unusedBytes": 177,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 56,
+        "usedBytes": 0,
+        "unusedBytes": 56,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 412,
+        "usedBytes": 0,
+        "unusedBytes": 412,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 798,
+        "usedBytes": 0,
+        "unusedBytes": 798,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 729,
+        "usedBytes": 0,
+        "unusedBytes": 729,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1552,
+        "usedBytes": 0,
+        "unusedBytes": 1552,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1407,
+        "usedBytes": 0,
+        "unusedBytes": 1407,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 721,
+        "usedBytes": 0,
+        "unusedBytes": 721,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 8039,
+        "usedBytes": 0,
+        "unusedBytes": 8039,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 231,
+        "usedBytes": 0,
+        "unusedBytes": 231,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 727,
+        "usedBytes": 0,
+        "unusedBytes": 727,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 727,
+        "usedBytes": 0,
+        "unusedBytes": 727,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 145,
+        "usedBytes": 0,
+        "unusedBytes": 145,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 361,
+        "usedBytes": 0,
+        "unusedBytes": 361,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 9967,
+        "usedBytes": 0,
+        "unusedBytes": 9967,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2421,
+        "usedBytes": 0,
+        "unusedBytes": 2421,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://assets.nflxext.com/web/ffe/wp/@nf-web-ui/ui-shared/dist/less/signup/nmhp/nmhp.1afe2e52bff213979e1d.css",
+        "totalBytes": 5634,
+        "usedBytes": 792,
+        "unusedBytes": 4842,
+        "unusedPercent": 86
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 384,
+        "usedBytes": 0,
+        "unusedBytes": 384,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1518,
+        "usedBytes": 0,
+        "unusedBytes": 1518,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 727,
+        "usedBytes": 0,
+        "unusedBytes": 727,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 725,
+        "usedBytes": 0,
+        "unusedBytes": 725,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 443,
+        "usedBytes": 0,
+        "unusedBytes": 443,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 53,
+        "usedBytes": 0,
+        "unusedBytes": 53,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 67,
+        "usedBytes": 0,
+        "unusedBytes": 67,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 146,
+        "usedBytes": 0,
+        "unusedBytes": 146,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 279,
+        "usedBytes": 0,
+        "unusedBytes": 279,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 91,
+        "usedBytes": 0,
+        "unusedBytes": 91,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 136,
+        "usedBytes": 0,
+        "unusedBytes": 136,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 176,
+        "usedBytes": 0,
+        "unusedBytes": 176,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 482,
+        "usedBytes": 0,
+        "unusedBytes": 482,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 727,
+        "usedBytes": 0,
+        "unusedBytes": 727,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 656,
+        "usedBytes": 0,
+        "unusedBytes": 656,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 6029,
+        "usedBytes": 0,
+        "unusedBytes": 6029,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2556,
+        "usedBytes": 0,
+        "unusedBytes": 2556,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 386,
+        "usedBytes": 0,
+        "unusedBytes": 386,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 626,
+        "usedBytes": 0,
+        "unusedBytes": 626,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2551,
+        "usedBytes": 0,
+        "unusedBytes": 2551,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2447,
+        "usedBytes": 0,
+        "unusedBytes": 2447,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1414,
+        "usedBytes": 0,
+        "unusedBytes": 1414,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1196,
+        "usedBytes": 0,
+        "unusedBytes": 1196,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 238,
+        "usedBytes": 0,
+        "unusedBytes": 238,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2024,
+        "usedBytes": 0,
+        "unusedBytes": 2024,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 455,
+        "usedBytes": 0,
+        "unusedBytes": 455,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 364,
+        "usedBytes": 0,
+        "unusedBytes": 364,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 379,
+        "usedBytes": 0,
+        "unusedBytes": 379,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 741,
+        "usedBytes": 0,
+        "unusedBytes": 741,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 230,
+        "usedBytes": 0,
+        "unusedBytes": 230,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 641,
+        "usedBytes": 0,
+        "unusedBytes": 641,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1109,
+        "usedBytes": 0,
+        "unusedBytes": 1109,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1413,
+        "usedBytes": 0,
+        "unusedBytes": 1413,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 206,
+        "usedBytes": 0,
+        "unusedBytes": 206,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 206,
+        "usedBytes": 0,
+        "unusedBytes": 206,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2039,
+        "usedBytes": 0,
+        "unusedBytes": 2039,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 16431,
+        "usedBytes": 0,
+        "unusedBytes": 16431,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 6006,
+        "usedBytes": 0,
+        "unusedBytes": 6006,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 63,
+        "usedBytes": 0,
+        "unusedBytes": 63,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 73,
+        "usedBytes": 0,
+        "unusedBytes": 73,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 152,
+        "usedBytes": 0,
+        "unusedBytes": 152,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 147,
+        "usedBytes": 0,
+        "unusedBytes": 147,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2142,
+        "usedBytes": 0,
+        "unusedBytes": 2142,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1097,
+        "usedBytes": 0,
+        "unusedBytes": 1097,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2915,
+        "usedBytes": 0,
+        "unusedBytes": 2915,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1073,
+        "usedBytes": 0,
+        "unusedBytes": 1073,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 200,
+        "usedBytes": 0,
+        "unusedBytes": 200,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 727,
+        "usedBytes": 0,
+        "unusedBytes": 727,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 92,
+        "usedBytes": 0,
+        "unusedBytes": 92,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 233,
+        "usedBytes": 0,
+        "unusedBytes": 233,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 271,
+        "usedBytes": 0,
+        "unusedBytes": 271,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 117,
+        "usedBytes": 0,
+        "unusedBytes": 117,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 776,
+        "usedBytes": 0,
+        "unusedBytes": 776,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 3325,
+        "usedBytes": 0,
+        "unusedBytes": 3325,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 345,
+        "usedBytes": 0,
+        "unusedBytes": 345,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2552,
+        "usedBytes": 0,
+        "unusedBytes": 2552,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 441,
+        "usedBytes": 0,
+        "unusedBytes": 441,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1188,
+        "usedBytes": 0,
+        "unusedBytes": 1188,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 14730,
+        "usedBytes": 0,
+        "unusedBytes": 14730,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 4090,
+        "usedBytes": 0,
+        "unusedBytes": 4090,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2574,
+        "usedBytes": 0,
+        "unusedBytes": 2574,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 14356,
+        "usedBytes": 0,
+        "unusedBytes": 14356,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 444,
+        "usedBytes": 0,
+        "unusedBytes": 444,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 884,
+        "usedBytes": 0,
+        "unusedBytes": 884,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 372,
+        "usedBytes": 0,
+        "unusedBytes": 372,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1132,
+        "usedBytes": 0,
+        "unusedBytes": 1132,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 614,
+        "usedBytes": 0,
+        "unusedBytes": 614,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 413,
+        "usedBytes": 0,
+        "unusedBytes": 413,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 183,
+        "usedBytes": 0,
+        "unusedBytes": 183,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 114,
+        "usedBytes": 0,
+        "unusedBytes": 114,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 52,
+        "usedBytes": 0,
+        "unusedBytes": 52,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 66,
+        "usedBytes": 0,
+        "unusedBytes": 66,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 13201,
+        "usedBytes": 0,
+        "unusedBytes": 13201,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 441,
+        "usedBytes": 0,
+        "unusedBytes": 441,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 384,
+        "usedBytes": 0,
+        "unusedBytes": 384,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 184,
+        "usedBytes": 0,
+        "unusedBytes": 184,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 971,
+        "usedBytes": 0,
+        "unusedBytes": 971,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 3360,
+        "usedBytes": 0,
+        "unusedBytes": 3360,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2149,
+        "usedBytes": 0,
+        "unusedBytes": 2149,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 254,
+        "usedBytes": 0,
+        "unusedBytes": 254,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 528,
+        "usedBytes": 0,
+        "unusedBytes": 528,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 729,
+        "usedBytes": 0,
+        "unusedBytes": 729,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 8211,
+        "usedBytes": 0,
+        "unusedBytes": 8211,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 396,
+        "usedBytes": 0,
+        "unusedBytes": 396,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 8194,
+        "usedBytes": 0,
+        "unusedBytes": 8194,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 115,
+        "usedBytes": 0,
+        "unusedBytes": 115,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 165,
+        "usedBytes": 0,
+        "unusedBytes": 165,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 512,
+        "usedBytes": 0,
+        "unusedBytes": 512,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 15213,
+        "usedBytes": 0,
+        "unusedBytes": 15213,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 6960,
+        "usedBytes": 0,
+        "unusedBytes": 6960,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 423,
+        "usedBytes": 0,
+        "unusedBytes": 423,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 136,
+        "usedBytes": 0,
+        "unusedBytes": 136,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 522,
+        "usedBytes": 0,
+        "unusedBytes": 522,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 235,
+        "usedBytes": 0,
+        "unusedBytes": 235,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 279,
+        "usedBytes": 263,
+        "unusedBytes": 16,
+        "unusedPercent": 6
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2552,
+        "usedBytes": 1417,
+        "unusedBytes": 1135,
+        "unusedPercent": 44
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 482,
+        "usedBytes": 355,
+        "unusedBytes": 127,
+        "unusedPercent": 26
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 8194,
+        "usedBytes": 5482,
+        "unusedBytes": 2712,
+        "unusedPercent": 33
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 177,
+        "usedBytes": 177,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 145,
+        "usedBytes": 129,
+        "unusedBytes": 16,
+        "unusedPercent": 11
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 727,
+        "usedBytes": 288,
+        "unusedBytes": 439,
+        "unusedPercent": 60
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 384,
+        "usedBytes": 276,
+        "unusedBytes": 108,
+        "unusedPercent": 28
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1073,
+        "usedBytes": 0,
+        "unusedBytes": 1073,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 146,
+        "usedBytes": 146,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 3003,
+        "usedBytes": 2226,
+        "unusedBytes": 777,
+        "unusedPercent": 26
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 9967,
+        "usedBytes": 7568,
+        "unusedBytes": 2399,
+        "unusedPercent": 24
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 16833,
+        "usedBytes": 6855,
+        "unusedBytes": 9978,
+        "unusedPercent": 59
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 423,
+        "usedBytes": 316,
+        "unusedBytes": 107,
+        "unusedPercent": 25
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 67,
+        "usedBytes": 67,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 396,
+        "usedBytes": 396,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 117,
+        "usedBytes": 117,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 522,
+        "usedBytes": 522,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 971,
+        "usedBytes": 729,
+        "unusedBytes": 242,
+        "unusedPercent": 25
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1292,
+        "usedBytes": 1292,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 372,
+        "usedBytes": 372,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 412,
+        "usedBytes": 380,
+        "unusedBytes": 32,
+        "unusedPercent": 8
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 656,
+        "usedBytes": 640,
+        "unusedBytes": 16,
+        "unusedPercent": 2
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 413,
+        "usedBytes": 0,
+        "unusedBytes": 413,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 3360,
+        "usedBytes": 2940,
+        "unusedBytes": 420,
+        "unusedPercent": 13
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 176,
+        "usedBytes": 176,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 455,
+        "usedBytes": 0,
+        "unusedBytes": 455,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 626,
+        "usedBytes": 602,
+        "unusedBytes": 24,
+        "unusedPercent": 4
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 361,
+        "usedBytes": 0,
+        "unusedBytes": 361,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 441,
+        "usedBytes": 260,
+        "unusedBytes": 181,
+        "unusedPercent": 41
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 92,
+        "usedBytes": 0,
+        "unusedBytes": 92,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 13201,
+        "usedBytes": 0,
+        "unusedBytes": 13201,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 8039,
+        "usedBytes": 0,
+        "unusedBytes": 8039,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 230,
+        "usedBytes": 230,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 6029,
+        "usedBytes": 0,
+        "unusedBytes": 6029,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2447,
+        "usedBytes": 1443,
+        "unusedBytes": 1004,
+        "unusedPercent": 41
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 6963,
+        "usedBytes": 0,
+        "unusedBytes": 6963,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 52,
+        "usedBytes": 52,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 6960,
+        "usedBytes": 0,
+        "unusedBytes": 6960,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 512,
+        "usedBytes": 390,
+        "unusedBytes": 122,
+        "unusedPercent": 24
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1109,
+        "usedBytes": 0,
+        "unusedBytes": 1109,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 727,
+        "usedBytes": 288,
+        "unusedBytes": 439,
+        "unusedPercent": 60
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2421,
+        "usedBytes": 0,
+        "unusedBytes": 2421,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1500,
+        "usedBytes": 528,
+        "unusedBytes": 972,
+        "unusedPercent": 65
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 136,
+        "usedBytes": 0,
+        "unusedBytes": 136,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 551,
+        "usedBytes": 429,
+        "unusedBytes": 122,
+        "unusedPercent": 22
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 15213,
+        "usedBytes": 8245,
+        "unusedBytes": 6968,
+        "unusedPercent": 46
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 16431,
+        "usedBytes": 0,
+        "unusedBytes": 16431,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 441,
+        "usedBytes": 375,
+        "unusedBytes": 66,
+        "unusedPercent": 15
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 200,
+        "usedBytes": 184,
+        "unusedBytes": 16,
+        "unusedPercent": 8
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 721,
+        "usedBytes": 282,
+        "unusedBytes": 439,
+        "unusedPercent": 61
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 233,
+        "usedBytes": 129,
+        "unusedBytes": 104,
+        "unusedPercent": 45
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 231,
+        "usedBytes": 231,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1288,
+        "usedBytes": 1288,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 136,
+        "usedBytes": 0,
+        "unusedBytes": 136,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 53,
+        "usedBytes": 53,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 147,
+        "usedBytes": 147,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 725,
+        "usedBytes": 286,
+        "unusedBytes": 439,
+        "unusedPercent": 61
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 254,
+        "usedBytes": 246,
+        "unusedBytes": 8,
+        "unusedPercent": 3
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 386,
+        "usedBytes": 386,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 741,
+        "usedBytes": 614,
+        "unusedBytes": 127,
+        "unusedPercent": 17
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 884,
+        "usedBytes": 0,
+        "unusedBytes": 884,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1414,
+        "usedBytes": 1308,
+        "unusedBytes": 106,
+        "unusedPercent": 7
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 14356,
+        "usedBytes": 0,
+        "unusedBytes": 14356,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 727,
+        "usedBytes": 288,
+        "unusedBytes": 439,
+        "unusedPercent": 60
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 56,
+        "usedBytes": 0,
+        "unusedBytes": 56,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 729,
+        "usedBytes": 289,
+        "unusedBytes": 440,
+        "unusedPercent": 60
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 206,
+        "usedBytes": 206,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1658,
+        "usedBytes": 1166,
+        "unusedBytes": 492,
+        "unusedPercent": 30
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2915,
+        "usedBytes": 2105,
+        "unusedBytes": 810,
+        "unusedPercent": 28
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 384,
+        "usedBytes": 228,
+        "unusedBytes": 156,
+        "unusedPercent": 41
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2039,
+        "usedBytes": 0,
+        "unusedBytes": 2039,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 5643,
+        "usedBytes": 4261,
+        "unusedBytes": 1382,
+        "unusedPercent": 24
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 289,
+        "usedBytes": 127,
+        "unusedBytes": 162,
+        "unusedPercent": 56
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2551,
+        "usedBytes": 1907,
+        "unusedBytes": 644,
+        "unusedPercent": 25
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 641,
+        "usedBytes": 641,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1407,
+        "usedBytes": 1335,
+        "unusedBytes": 72,
+        "unusedPercent": 5
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 3950,
+        "usedBytes": 1023,
+        "unusedBytes": 2927,
+        "unusedPercent": 74
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 114,
+        "usedBytes": 0,
+        "unusedBytes": 114,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 379,
+        "usedBytes": 379,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 73,
+        "usedBytes": 73,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 152,
+        "usedBytes": 0,
+        "unusedBytes": 152,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2556,
+        "usedBytes": 1913,
+        "unusedBytes": 643,
+        "unusedPercent": 25
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1080,
+        "usedBytes": 0,
+        "unusedBytes": 1080,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2088,
+        "usedBytes": 780,
+        "unusedBytes": 1308,
+        "unusedPercent": 63
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 6006,
+        "usedBytes": 0,
+        "unusedBytes": 6006,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 729,
+        "usedBytes": 289,
+        "unusedBytes": 440,
+        "unusedPercent": 60
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 345,
+        "usedBytes": 318,
+        "unusedBytes": 27,
+        "unusedPercent": 8
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 528,
+        "usedBytes": 512,
+        "unusedBytes": 16,
+        "unusedPercent": 3
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2024,
+        "usedBytes": 1392,
+        "unusedBytes": 632,
+        "unusedPercent": 31
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 66,
+        "usedBytes": 66,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 165,
+        "usedBytes": 165,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 444,
+        "usedBytes": 444,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 4090,
+        "usedBytes": 1120,
+        "unusedBytes": 2970,
+        "unusedPercent": 73
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 3325,
+        "usedBytes": 0,
+        "unusedBytes": 3325,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 206,
+        "usedBytes": 206,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 271,
+        "usedBytes": 0,
+        "unusedBytes": 271,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 14730,
+        "usedBytes": 0,
+        "unusedBytes": 14730,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1196,
+        "usedBytes": 778,
+        "unusedBytes": 418,
+        "unusedPercent": 35
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 8211,
+        "usedBytes": 5485,
+        "unusedBytes": 2726,
+        "unusedPercent": 33
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 183,
+        "usedBytes": 0,
+        "unusedBytes": 183,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 364,
+        "usedBytes": 364,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 184,
+        "usedBytes": 0,
+        "unusedBytes": 184,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 614,
+        "usedBytes": 614,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1518,
+        "usedBytes": 1394,
+        "unusedBytes": 124,
+        "unusedPercent": 8
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 776,
+        "usedBytes": 656,
+        "unusedBytes": 120,
+        "unusedPercent": 15
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 725,
+        "usedBytes": 286,
+        "unusedBytes": 439,
+        "unusedPercent": 61
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1413,
+        "usedBytes": 1341,
+        "unusedBytes": 72,
+        "unusedPercent": 5
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2142,
+        "usedBytes": 1118,
+        "unusedBytes": 1024,
+        "unusedPercent": 48
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1188,
+        "usedBytes": 0,
+        "unusedBytes": 1188,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1132,
+        "usedBytes": 1016,
+        "unusedBytes": 116,
+        "unusedPercent": 10
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 727,
+        "usedBytes": 288,
+        "unusedBytes": 439,
+        "unusedPercent": 60
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 115,
+        "usedBytes": 0,
+        "unusedBytes": 115,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 63,
+        "usedBytes": 63,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2574,
+        "usedBytes": 2040,
+        "unusedBytes": 534,
+        "unusedPercent": 21
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 235,
+        "usedBytes": 235,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 443,
+        "usedBytes": 331,
+        "unusedBytes": 112,
+        "unusedPercent": 25
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 2149,
+        "usedBytes": 1565,
+        "unusedBytes": 584,
+        "unusedPercent": 27
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 280,
+        "usedBytes": 280,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 238,
+        "usedBytes": 134,
+        "unusedBytes": 104,
+        "unusedPercent": 44
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 727,
+        "usedBytes": 288,
+        "unusedBytes": 439,
+        "unusedPercent": 60
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 241,
+        "usedBytes": 0,
+        "unusedBytes": 241,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 798,
+        "usedBytes": 680,
+        "unusedBytes": 118,
+        "unusedPercent": 15
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 91,
+        "usedBytes": 91,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1552,
+        "usedBytes": 532,
+        "unusedBytes": 1020,
+        "unusedPercent": 66
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 1097,
+        "usedBytes": 989,
+        "unusedBytes": 108,
+        "unusedPercent": 10
+      },
+      {
+        "url": "https://www.netflix.com/in/",
+        "totalBytes": 42,
+        "usedBytes": 42,
+        "unusedBytes": 0,
+        "unusedPercent": 0
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/styles__ltr.css",
+        "totalBytes": 75464,
+        "usedBytes": 2987,
+        "unusedBytes": 72477,
+        "unusedPercent": 96
+      },
+      {
+        "url": "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6LdqW_EqAAAAAO87Fb_kcZfNzs0IqJRcKiJDYpUv&co=aHR0cHM6Ly93d3cubmV0ZmxpeC5jb206NDQz&hl=en&v=NhfdZHzre16wrc2m6BxEdu7J&size=invisible&anchor-ms=20000&execute-ms=30000&cb=ybpxtkbqlug7",
+        "totalBytes": 15944,
+        "usedBytes": 0,
+        "unusedBytes": 15944,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.google.com/recaptcha/enterprise/anchor?ar=1&k=6LdqW_EqAAAAAO87Fb_kcZfNzs0IqJRcKiJDYpUv&co=aHR0cHM6Ly93d3cubmV0ZmxpeC5jb206NDQz&hl=en&v=NhfdZHzre16wrc2m6BxEdu7J&size=invisible&anchor-ms=20000&execute-ms=30000&cb=2jr80oqoa15q",
+        "totalBytes": 15944,
+        "usedBytes": 0,
+        "unusedBytes": 15944,
+        "unusedPercent": 100
+      },
+      {
+        "url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/styles__ltr.css",
+        "totalBytes": 75464,
+        "usedBytes": 2987,
+        "unusedBytes": 72477,
+        "unusedPercent": 96
+      }
+    ],
+    "totalBytes": 695308,
+    "usedBytes": 99734,
+    "unusedBytes": 595574,
+    "unusedPercent": 86,
+    "importantCount": 55,
+    "duplicates": 2485,
+    "vendorPrefixes": {
+      "webkit": 1286,
+      "moz": 114,
+      "ms": 293,
+      "o": 0
+    },
+    "keyframes": [],
+    "specificity": {
+      "max": [
+        1,
+        5,
+        7
+      ],
+      "average": [
+        0.02,
+        1.78,
+        0.44
+      ],
+      "count": 2364
+    },
+    "issues": [
+      "55 !important rules",
+      "2485 duplicate declarations",
+      "86% unused CSS"
+    ]
+  }
+}
